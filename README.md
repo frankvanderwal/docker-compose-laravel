@@ -7,4 +7,4 @@ This is a fork of the [docker-compose-laravel](https://github.com/aschmelyun/doc
 - database credentials are fetched from .env file
 - created mysql volume, so that the database persists over container restart
 
-Original documentation is [here](https://github.com/frankvanderwal/docker-compose-laravel/blob/master/README%20original.md)
+Original documentation is copied [here](https://github.com/frankvanderwal/docker-compose-laravel/blob/master/README%20original.md) (in case the original repo will cease to exist)
